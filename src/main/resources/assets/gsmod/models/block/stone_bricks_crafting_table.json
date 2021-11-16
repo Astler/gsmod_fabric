@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "gsmod:block/stone_bricks_crafting_table_front",
+    "north": "gsmod:block/stone_bricks_crafting_table_front",
+    "south": "gsmod:block/stone_bricks_crafting_table_side",
+    "east": "gsmod:block/stone_bricks_crafting_table_side",
+    "west": "gsmod:block/stone_bricks_crafting_table_front",
+    "up": "gsmod:block/stone_bricks_crafting_table_top",
+    "down": "minecraft:block/stone_bricks"
+  }
+}

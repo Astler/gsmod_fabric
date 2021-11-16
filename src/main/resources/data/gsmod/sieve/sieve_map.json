@@ -1,0 +1,106 @@
+{
+  "dirt_type": [
+    {
+      "item": "minecraft:wheat_seeds",
+      "chance": 20
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 20
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 10
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 5
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 1
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "chance": 0.5
+    }
+  ],
+  "sand_type": [
+    {
+      "item": "minecraft:bone_meal",
+      "chance": 20
+    },
+    {
+      "item": "minecraft:bone",
+      "chance": 10
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 10
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 8
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 10
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 0.8
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "chance": 1
+    }
+  ],
+  "gravel_type": [
+    {
+      "item": "minecraft:stick",
+      "chance": 5
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 15
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 8
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 2
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "chance": 0.8
+    }
+  ],
+  "default": [
+    {
+      "item": "minecraft:wheat_seeds",
+      "chance": 15
+    },
+    {
+      "item": "minecraft:stick",
+      "chance": 20
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 10
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 5
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 1
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "chance": 0.5
+    }
+  ]
+}

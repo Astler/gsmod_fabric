@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bookshelf",
+    "gsmod:cobblestone_bookshelf",
+    "gsmod:stone_bookshelf",
+    "gsmod:stone_bricks_bookshelf"
+  ]
+}

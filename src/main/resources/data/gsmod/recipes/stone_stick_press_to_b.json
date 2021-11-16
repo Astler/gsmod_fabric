@@ -1,0 +1,14 @@
+{
+  "type": "gsmod:press_shapeless",
+  "ingredients": [
+    {
+      "item": "gsmod:stone_stick"
+    },
+    {
+      "item": "gsmod:stone_stick"
+    }
+  ],
+  "result": {
+    "item": "gsmod:boulders"
+  }
+}

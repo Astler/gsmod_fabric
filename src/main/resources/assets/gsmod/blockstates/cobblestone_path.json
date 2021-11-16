@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "gsmod:block/cobblestone_path"
+      },
+      {
+        "model": "gsmod:block/cobblestone_path",
+        "y": 90
+      },
+      {
+        "model": "gsmod:block/cobblestone_path",
+        "y": 180
+      },
+      {
+        "model": "gsmod:block/cobblestone_path",
+        "y": 270
+      }
+    ]
+  }
+}

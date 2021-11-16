@@ -1,0 +1,11 @@
+{
+  "item.gsmod.stone_stick": "Каменная палка",
+
+  "item.gsmod.can": "Банка",
+  "item.gsmod.candy": "Конфета",
+  "item.gsmod.can_with_food": "Банка с едой",
+  "itemGroup.gs_tab": "Лучший мод",
+
+  "container.press": "Пресс",
+  "block.gsmod.fortified_stone": "Укрепленный камень"
+}

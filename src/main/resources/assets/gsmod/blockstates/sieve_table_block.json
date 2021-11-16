@@ -1,0 +1,75 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "gsmod:block/sieve_table"
+      }
+    },
+    {
+      "when": {
+        "has_loot": true,
+        "loot_model": 0,
+        "progress": 0
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_found_item_0"
+      }
+    },
+    {
+      "when": {
+        "has_loot": true,
+        "loot_model": 1,
+        "progress": 0
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_found_item_1"
+      }
+    },
+    {
+      "when": {
+        "has_loot": true,
+        "loot_model": 2,
+        "progress": 0
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_found_item_2"
+      }
+    },
+    {
+      "when": {
+        "progress": 1,
+        "block_type": 0
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_full_dirt"
+      }
+    },
+    {
+      "when": {
+        "progress": 1,
+        "block_type": 1
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_full_sand"
+      }
+    },
+    {
+      "when": {
+        "progress": 1,
+        "block_type": 2
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_full_red_sand"
+      }
+    },
+    {
+      "when": {
+        "progress": 1,
+        "block_type": 3
+      },
+      "apply": {
+        "model": "gsmod:block/sieve_table_full_gravel"
+      }
+    }
+  ]
+}

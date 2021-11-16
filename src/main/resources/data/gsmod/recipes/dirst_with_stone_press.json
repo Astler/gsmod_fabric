@@ -1,0 +1,15 @@
+{
+  "type": "gsmod:press_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "tag": "forge:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coarse_dirt",
+    "count": 2
+  }
+}

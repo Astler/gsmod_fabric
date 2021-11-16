@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "gsmod:item/fortified_stone_sword"
+  }
+}

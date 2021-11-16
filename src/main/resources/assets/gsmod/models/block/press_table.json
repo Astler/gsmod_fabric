@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "gsmod:block/press_table_front",
+    "north": "gsmod:block/press_table_front",
+    "south": "gsmod:block/press_table_side",
+    "east": "gsmod:block/press_table_side",
+    "west": "gsmod:block/press_table_front",
+    "up": "gsmod:block/press_table_top",
+    "down": "minecraft:block/stone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "gsmod:block/cobblestone_crafting_table_front",
+    "north": "gsmod:block/cobblestone_crafting_table_front",
+    "south": "gsmod:block/cobblestone_crafting_table_side",
+    "east": "gsmod:block/cobblestone_crafting_table_side",
+    "west": "gsmod:block/cobblestone_crafting_table_front",
+    "up": "gsmod:block/cobblestone_crafting_table_top",
+    "down": "minecraft:block/cobblestone"
+  }
+}

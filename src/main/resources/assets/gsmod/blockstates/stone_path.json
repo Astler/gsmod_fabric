@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "gsmod:block/stone_path"
+      },
+      {
+        "model": "gsmod:block/stone_path",
+        "y": 90
+      },
+      {
+        "model": "gsmod:block/stone_path",
+        "y": 180
+      },
+      {
+        "model": "gsmod:block/stone_path",
+        "y": 270
+      }
+    ]
+  }
+}

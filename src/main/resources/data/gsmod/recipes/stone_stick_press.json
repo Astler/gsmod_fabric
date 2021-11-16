@@ -1,0 +1,16 @@
+{
+  "type": "gsmod:press_shaped",
+  "pattern": "XYXYX",
+  "key": {
+    "X": {
+      "item": "minecraft:stone"
+    },
+    "Y": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "gsmod:stone_stick",
+    "count": 3
+  }
+}

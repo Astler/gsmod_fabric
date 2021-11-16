@@ -1,0 +1,12 @@
+{
+  "type": "gsmod:press_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone_wall"
+    }
+  ],
+  "result": {
+    "item": "gsmod:boulders",
+    "count": 2
+  }
+}

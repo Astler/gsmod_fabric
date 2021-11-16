@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crafting_table",
+    "gsmod:stone_crafting_table",
+    "gsmod:stone_bricks_crafting_table",
+    "gsmod:cobblestone_crafting_table"
+  ]
+}
